@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/Docker-Bootcamp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/Jackson-Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/Mockito" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/PG" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/PickYourTrialAssesment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/Stream-Api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/configs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/design-patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/example-voting-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/gitcommandscheck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/jmh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/jmh-benchmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/service-discovery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/solidprinciples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hari/tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practise" vcs="Git" />
+  </component>
+</project>
